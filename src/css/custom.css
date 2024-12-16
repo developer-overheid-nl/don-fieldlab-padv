@@ -20,8 +20,8 @@
   --ifm-heading-font-family: 'FiraSans-Bold', sans-serif;
   --ifm-heading-font-weight: var(--rhc-font-size-heading-level-1);
   --ifm-font-family-base: 'FiraSans-Regular', sans-serif;
-  --ifm-link-color: rgb(1, 104, 155);
-  --ifm-navbar-link-hover-color: rgb(1, 104, 155);
+  /* --ifm-link-color: rgb(1, 104, 155); */
+  /* --ifm-navbar-link-hover-color: rgb(1, 104, 155); */
 
   /* Hero */
   /* BROKEN! */
@@ -103,4 +103,8 @@
 
 .fira-sans-bold {
   font-family: "FiraSans-Bold", sans-serif;
+}
+
+.table-of-contents__link--active {
+  color: var(--utrecht-link-color)
 }
