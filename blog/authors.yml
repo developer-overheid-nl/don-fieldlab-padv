@@ -10,17 +10,17 @@ joostfarla:
 dimitrivanhees:
   name: Dimitri van Hees
   title: Product Owner - Developer Overheid NL
-  url: https://github.com/dvh
   image_url: https://github.com/dvh.png
   page: true
   socials:
     linkedin: dimitrivanhees
     github: dvh
+    mastodon: https://me.dm/@dvh
+    bluesky: dvh.nu
 
 matthijshovestad:
   name: Matthijs Hovestad
   title: Senior Backend Developer - Developer Overheid NL
-  url: https://github.com/pasibun
   image_url: https://github.com/pasibun.png
   page: true
   socials:
@@ -39,7 +39,6 @@ tomootes:
 martinvanderplas:
   name: Martin van der Plas
   title: Implementatie ondersteuner - Developer Overheid NL
-  url: https://github.com/mrtn78
   image_url: https://github.com/mrtn78.png
   page: true
   socials:
@@ -49,7 +48,6 @@ martinvanderplas:
 frankterpstra:
   name: Frank Terpstra
   title: Implementatie ondersteuner - Developer Overheid NL
-  url: https://github.com/fterpstra
   image_url: https://github.com/fterpstra.png
   page: true
   socials:
@@ -64,4 +62,22 @@ jaapheinwester:
   page: true
   socials:
     linkedin: jaapheinwester
-    github: MrSkippy 
+    github: MrSkippy
+
+digilab:
+  name: Digilab
+  title: Innovatiewerkplaats voor het Federatief Datastelsel
+  url: https://digilab.overheid.nl
+  image_url: https://social.overheid.nl/system/accounts/avatars/112/552/867/348/125/912/original/4a4f714089a5b239.png
+  page: true
+  socials:
+    mastodon: https://social.overheid.nl/@digilab
+
+kpa:
+  name: Kennisplatform API's
+  title: Strategische en tactische vraagstukken rond het ontwikkelen van API's
+  # url: https://digilab.overheid.nl
+  image_url: https://developer.overheid.nl/static/images/logo_icon_kpa.1787d5b5302a.png
+  page: true
+  # socials:
+  #   mastodon: https://social.overheid.nl/@digilab

@@ -17,3 +17,6 @@ hola:
   label: Hola
   permalink: /hola
   description: Hola tag description
+
+open-source:
+  label: Open Source
